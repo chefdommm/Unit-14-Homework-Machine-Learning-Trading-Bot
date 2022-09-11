@@ -1,4 +1,5 @@
 # Unit-14-Homework-Machine-Learning-Trading-Bot
+![pic](https://tse1.mm.bing.net/th?&id=OVP.0A-rPaZhSceBvv9Cj9KcvgIIEk&w=297&h=180&c=7&pid=2.1&rs=1)
 ## Challenge
 ---
 
@@ -160,6 +161,9 @@ I then backtest the new model to evaluate its performance.
 Question: Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
 
 ## Answer : this new model did a little better than the provided baseline model and about the same as my tuned algorithm  
+
+
+![pic2](https://th.bing.com/th/id/OIP.8fSWy8yLKMcdAL3JgikwSAHaEK?pid=ImgDet&rs=1)
 
 
 
